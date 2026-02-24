@@ -34,9 +34,17 @@ Each day is a 5-minute read with one concrete action. By the end, you'll have a 
 | [Day 06](week-1/day-06.md) | The Vendor Landscape |
 | [Day 07](week-1/day-07.md) | Week 1 Reflection + Mini-Assessment |
 
-### Week 2: Implementation (Coming Soon)
+### Week 2: Implementation
 
-Building your first AI initiative — from pilot design to production readiness.
+| Day | Topic |
+|-----|-------|
+| [Day 08](week-2/day-08.md) | Designing an AI Pilot That Actually Proves Value |
+| [Day 09](week-2/day-09.md) | Building the Right Team |
+| [Day 10](week-2/day-10.md) | Technical Architecture Decisions |
+| [Day 11](week-2/day-11.md) | Stakeholder Management & Expectation Setting |
+| [Day 12](week-2/day-12.md) | Success Metrics That Matter |
+| [Day 13](week-2/day-13.md) | The Valley of Disillusionment |
+| [Day 14](week-2/day-14.md) | Week 2 Reflection + Pilot Readiness Checklist |
 
 ### Week 3: Organization (Coming Soon)
 

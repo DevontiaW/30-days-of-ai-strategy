@@ -26,9 +26,19 @@ The goal this week is clarity. By Friday, you should be able to articulate what 
 | 06 | The Vendor Landscape | Navigate without getting sold |
 | 07 | Week 1 Reflection | Consolidate what you've learned, identify gaps |
 
-## Week 2: Implementation (Coming Soon)
+## Week 2: Implementation
 
-Topics will include: pilot design, success metrics, technical architecture decisions, build team composition, stakeholder management, managing expectations, and the "valley of disillusionment."
+The goal this week is execution. By Friday, you should have a concrete pilot plan — scoped, staffed, measured, and with stakeholder buy-in.
+
+| Day | Topic | Key Takeaway |
+|-----|-------|-------------|
+| 08 | Designing an AI Pilot That Actually Proves Value | Pilots need a hypothesis, a baseline, and a decision gate |
+| 09 | Building the Right Team | Start with 3-5 people and a clear problem, not a full data science department |
+| 10 | Technical Architecture Decisions | Design for throwaway, not permanence |
+| 11 | Stakeholder Management & Expectation Setting | Map influence and support, then engage each quadrant differently |
+| 12 | Success Metrics That Matter | If your metrics dashboard doesn't include a dollar figure, it's a science project |
+| 13 | The Valley of Disillusionment | Every AI initiative hits a trough — survival depends on translation, not technology |
+| 14 | Week 2 Reflection | Consolidate your plan with a pilot readiness checklist |
 
 ## Week 3: Organization (Coming Soon)
 
