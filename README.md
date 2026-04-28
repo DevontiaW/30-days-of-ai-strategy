@@ -16,7 +16,7 @@ Each day is a 5-minute read with one concrete action. By the end, you'll have a 
 
 **Self-paced:** Read one post per day. Do the "Your Move" action at the end of each post. Use the templates in `/templates` to apply concepts to your own org.
 
-**With a team:** Assign the week's readings, then discuss during a Friday sync. The Week 7 reflection posts make natural discussion prompts.
+**With a team:** Assign the week's readings, then discuss during a Friday sync. The end-of-week reflection posts (Days 7, 14, 21, and 28) make natural discussion prompts.
 
 **Cherry-pick:** Each post stands on its own. If you already know your data isn't ready, skip to Day 04 on use case prioritization.
 
@@ -46,13 +46,29 @@ Each day is a 5-minute read with one concrete action. By the end, you'll have a 
 | [Day 13](week-2/day-13.md) | The Valley of Disillusionment |
 | [Day 14](week-2/day-14.md) | Week 2 Reflection + Pilot Readiness Checklist |
 
-### Week 3: Organization (Coming Soon)
+### Week 3: Organization
 
-The people side — talent, culture, change management, and scaling AI teams.
+| Day | Topic |
+|-----|-------|
+| [Day 15](week-3/day-15.md) | AI Talent Strategy: Buy, Build, or Borrow |
+| [Day 16](week-3/day-16.md) | Upskilling at Scale |
+| [Day 17](week-3/day-17.md) | Change Management for AI |
+| [Day 18](week-3/day-18.md) | AI Ethics in Practice (Not Theory) |
+| [Day 19](week-3/day-19.md) | Cross-Functional Collaboration — The AI Triad |
+| [Day 20](week-3/day-20.md) | Building an AI Community of Practice |
+| [Day 21](week-3/day-21.md) | Week 3 Reflection + The People Audit |
 
-### Week 4: Scale (Coming Soon)
+### Week 4: Scale
 
-From one successful pilot to an AI-native organization. Portfolio management, measurement, and long-term positioning.
+| Day | Topic |
+|-----|-------|
+| [Day 22](week-4/day-22.md) | AI Portfolio Management |
+| [Day 23](week-4/day-23.md) | Measuring ROI Beyond the Pilot |
+| [Day 24](week-4/day-24.md) | Organizational Design for AI-Native Companies |
+| [Day 25](week-4/day-25.md) | AI Operating Models |
+| [Day 26](week-4/day-26.md) | Competitive Moats in the AI Era |
+| [Day 27](week-4/day-27.md) | Building for the Long Game — AI as a 10-Year Capability |
+| [Day 28](week-4/day-28.md) | Final Reflection + The Strategic Brief |
 
 ## Templates
 
@@ -64,7 +80,7 @@ From one successful pilot to an AI-native organization. Portfolio management, me
 
 ## About
 
-Created by [Devon Williams](https://github.com/DevontiaW) at **Textstone Labs** — a strategy and AI consultancy helping organizations make better decisions about technology.
+Created by [Devontae Williams](https://github.com/DevontiaW) at **Textstone Labs** — a strategy and AI consultancy helping organizations make better decisions about technology.
 
 This series draws from real consulting engagements, published research, and frameworks from McKinsey, Gartner, HBR, and others. Names and details are anonymized where drawn from client work.
 
