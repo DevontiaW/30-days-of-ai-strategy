@@ -125,8 +125,6 @@ The fix is making kill decisions a normal part of the portfolio review, not a sp
 
 If your organization has never killed an AI project, it doesn't have portfolio discipline. It has a graveyard of zombies you haven't admitted to.
 
-## Hot Take
-
 **Hot take:** The single biggest failure of AI strategy at the executive level is not picking the wrong use cases — it's failing to kill the wrong use cases fast enough. The opportunity cost of zombie projects is enormous: the same engineers, data scientists, and domain experts could be on the *next* high-value initiative instead of nursing along last year's bad bet.
 
 The hardest cultural shift in AI portfolio management is making it normal to kill projects. The orgs that get this right typically have an explicit norm: "we expect 60% of explorations and 50% of pilots to die. That's the price of finding the 5-10% that scale. If we're not killing things, we're not being honest with the data."
@@ -144,5 +142,5 @@ Schedule a portfolio review with the relevant executives within two weeks. Bring
 ## Go Deeper
 
 - [Hamilton Helmer, "7 Powers"](https://7powers.com/) — Not specifically about AI, but the strategic framework that informs portfolio thinking. Day 26 builds on this directly.
-- [HBR, "How to Win at Innovation"](https://hbr.org/2024/05/how-to-win-at-innovation) — Practical framework for portfolio discipline in innovation programs. Translates well to AI portfolios.
+- [HBR — Innovation topic](https://hbr.org/topic/subject/innovation) — HBR's archive on innovation portfolio discipline. Several practitioner-oriented pieces translate directly to AI portfolio thinking; the ones tagged "innovation portfolio" are the most relevant.
 - [BCG, "Scaling AI Pilots"](https://www.bcg.com/publications/2024/scaling-ai-pays-off-only-if-done-right) — Hard data on AI portfolio outcomes by industry, with patterns that match the four-stage funnel above.

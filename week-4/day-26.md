@@ -107,8 +107,6 @@ If you want to build a real moat, three patterns to focus on:
 
 **3. Build process power around AI deployment.** This takes 5+ years and is hard to copy. The org that has shipped 50 AI initiatives across business units, with a working operating model, governance, talent flywheel, and Community of Practice (Day 20) is materially more capable than a competitor starting from scratch — even if both have access to the same models. Process power is the only structural moat that improves with time.
 
-## Hot Take
-
 **Hot take:** The most overhyped "AI moat" claim of the 2020s has been "we trained our own model." For 99% of companies, this is dollar-burning, not moat-building. Off-the-shelf foundation models from Anthropic, OpenAI, and others are catching up to most domain-specific models within 12-18 months — and the cost of operating proprietary models is far higher than the cost of using fine-tuned API access.
 
 The companies that should train their own models are the ones with *unique data unavailable elsewhere* and *scale that justifies the operating cost*. That's a small set. Everyone else is funding pride, not strategy.

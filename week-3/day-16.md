@@ -123,6 +123,6 @@ If you've never done this exercise, expect to find that 80% of your training bud
 
 ## Go Deeper
 
-- [BCG, "Closing the AI Skills Gap"](https://www.bcg.com/publications/2024/closing-the-ai-skill-gap) — Useful framework on workforce segmentation for AI literacy and the cost-of-inaction analysis.
+- [BCG — Artificial Intelligence capability hub](https://www.bcg.com/capabilities/artificial-intelligence) — Their ongoing research on workforce AI readiness, including segmentation frameworks and cost-of-inaction analysis. Their annual AI Index publications are particularly useful.
 - [WEF, "Future of Jobs Report 2025"](https://www.weforum.org/publications/the-future-of-jobs-report-2025/) — The macro view: which roles are being augmented vs. replaced, and which AI skills are most in demand by industry.
-- [Lattice, "AI Upskilling Playbook"](https://lattice.com/library/the-ultimate-guide-to-ai-upskilling) — Free, practical guide focused specifically on people-leader curriculum design. Skip the marketing intro; the middle 60% is genuinely useful.
+- [Lattice — Resource Library](https://lattice.com/library) — Free, practitioner-oriented people-leader content on upskilling and AI literacy curriculum design. Filter for AI/upskilling topics; the practical ones beat the marketing-heavy ones.

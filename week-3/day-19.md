@@ -125,8 +125,6 @@ Real collaboration happens when the team works on the same documents, not on sep
 
 If your team's collaboration model is "Technical produces a thing, then Domain reviews it, then Product reviews it" — you don't have a triad. You have sequential handoffs in disguise.
 
-## Hot Take
-
 **Hot take:** Pure ML teams are an organizational dead-end for applied AI. The "AI Center of Excellence" staffed entirely with ML engineers reporting to the CTO is one of the most common — and least productive — organizational designs in enterprise AI. It produces strong technical work that rarely makes it into the business. The model is shipped, and then it dies.
 
 The high-performing pattern is embedded squads with the triad in each squad, not a centralized ML team consulting to the business. Which means: instead of one team of 20 ML engineers, you have five teams of four (one ML engineer, one domain expert, one product person, one floating engineer for ops/integration). Same headcount, dramatically better outcomes.
@@ -145,6 +143,6 @@ If any of these is "we don't have one yet" or "everyone, sort of" — that's you
 
 ## Go Deeper
 
-- [Eric Schmidt et al., "AI 2041" (book)](https://ai2041.com/) — Less a book about specific tech, more about how AI changes organizational dynamics. The chapters on team structure are particularly relevant to the triad pattern.
+- [Kai-Fu Lee & Chen Qiufan, "AI 2041" (book)](https://ai2041.com/) — Ten short stories paired with technical commentary on how AI reshapes industries. The organizational dynamics threaded through the stories are the relevant part for cross-functional team structure thinking.
 - [BCG, "The Most Successful Approaches to Leading Organizational Change"](https://www.bcg.com/publications/2024/successful-approaches-to-leading-organizational-change) — Cross-functional team structure data from large enterprise transformations. Validates the triad pattern with hard numbers.
 - [Andrew Ng, "AI Transformation Playbook"](https://landing.ai/wp-content/uploads/2020/05/LandingAI_Transformation_Playbook_11-19.pdf) — Free PDF. Section on cross-functional collaboration is short but precise. Andrew has built more applied AI teams than almost anyone.

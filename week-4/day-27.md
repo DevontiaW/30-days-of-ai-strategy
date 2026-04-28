@@ -113,8 +113,6 @@ The companies building 10-year AI capability protect a portion of their AI budge
 
 These investments are the ones that get cut first when budgets tighten. That's exactly when they're most valuable to protect.
 
-## Hot Take
-
 **Hot take:** Most AI strategy is dressed-up annual planning. Real AI strategy is multi-year capital allocation aimed at compounding advantages. If your AI strategy doesn't include investments that won't pay back for 3+ years, it's probably not strategy — it's tactics with strategic vocabulary.
 
 The CFOs that get this distinction protect a portion of AI investment from quarterly ROI scrutiny. They treat the AI capability portfolio more like R&D — patient capital with rigorous selection but tolerance for long payback. The CFOs that don't get this end up funding only short-payback work, which is fine for three years and devastating for the decade.
@@ -136,4 +134,4 @@ These investments won't show up well in next quarter's review. They'll show up d
 
 - [Tom Tunguz, "The Compounding Power of Data"](https://tomtunguz.com/) — Several blog posts (search his archive) on how data assets compound over time and how to think about valuation of data-rich companies.
 - [Andy Grove, "Only the Paranoid Survive"](https://www.harpercollins.com/products/only-the-paranoid-survive-andrew-s-grove) — Not specifically AI but the foundational text on strategic inflection points. The decisions you make in years 1-3 of an inflection determine your position in years 5-10. Applies directly to current AI moment.
-- [HBR, "Building AI Capabilities That Last"](https://hbr.org/2024/03/build-ai-capabilities-that-last) — Practical framing of the capability vs. feature distinction with case studies from companies that have done this well across a decade.
+- [HBR — Strategy topic](https://hbr.org/topic/subject/strategy) — HBR's strategy archive contains ongoing coverage of long-horizon capability building. Look for pieces on the "capability vs. feature" distinction and case studies on multi-year technology bets.

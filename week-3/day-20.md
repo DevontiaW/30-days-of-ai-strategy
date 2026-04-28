@@ -102,8 +102,6 @@ By month 12-18, if you've done it well, the community is bigger than any one per
 
 **The "central team takeover" failure.** Sometimes the central AI team starts using the CoP as a project-distribution mechanism — assigning work to members, pulling them into central initiatives. This drains the community of energy because members are no longer self-directing. The CoP and the central team should be peers, not boss-and-staff.
 
-## Hot Take
-
 **Hot take:** The right time to launch your AI Community of Practice is *before* you have your first AI win, not after. Most organizations wait until they have something to talk about. By then, the central AI team is established, the bottleneck has set in, and the cultural pattern of "AI happens over there" is already concrete.
 
 The companies that build durable AI capability launch the community early — even when meetings are 6 people and 4 of them are awkwardly nodding. The early community shapes how the organization absorbs AI. Late communities try to redirect a culture that's already formed.
@@ -122,6 +120,6 @@ If you do this within 30 days, you'll have a functioning community within six mo
 
 ## Go Deeper
 
-- [Etienne Wenger, "Communities of Practice: Learning, Meaning, and Identity"](https://www.cambridge.org/core/books/communities-of-practice/F22A01A4F7E0E5E1B6F3D1B1F5F5F5F5) — The foundational text on the topic. Dense but worth the time. Most contemporary CoP guidance traces back to Wenger's work in the 1990s.
+- **Etienne Wenger, "Communities of Practice: Learning, Meaning, and Identity"** (Cambridge University Press, 1998) — The foundational text on the topic. Dense but worth the time. Most contemporary CoP guidance traces back to Wenger's work in the 1990s. Available through most university libraries; Cambridge sells the print and digital editions directly.
 - [Spotify Engineering Culture](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/) — The "Spotify model" gets oversold, but the chapters on Guilds and Chapters describe one of the more successful applied CoP structures in tech. Worth reading even though Spotify itself has moved on from parts of it.
 - [HBR, "Cultivating Communities of Practice"](https://hbr.org/2000/01/communities-of-practice-the-organizational-frontier) — The classic management-theory framing, with practical advice on launching and sustaining CoPs in corporate environments. Old (2000) but still useful.

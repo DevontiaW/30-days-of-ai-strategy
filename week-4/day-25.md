@@ -119,8 +119,6 @@ The stage organizations forget exists. Operating an AI system in production is a
 
 **Maintenance ownership.** Someone owns the production system. Their name is on it. They get paged when it breaks. They get credit when it ships improvements. Without explicit maintenance ownership, production AI rots — slowly, then suddenly.
 
-## Hot Take
-
 **Hot take:** Most AI organizations spend 80% of their attention on building and 20% on operating. The successful long-term AI organizations flip that — once they have systems in production, 60% of attention goes to operating and improving, 40% to building. The reason: a maintained production system generating $2M of value beats a half-built new project that *might* generate $5M someday.
 
 This is a cultural shift. AI engineers like building new things, not maintaining old ones. The org that gets this right makes maintenance prestigious — pays well for MLOps roles, celebrates production reliability publicly, and gives engineers career paths through operations work, not just new builds.

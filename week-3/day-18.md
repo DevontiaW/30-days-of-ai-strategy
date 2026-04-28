@@ -107,8 +107,6 @@ The five practices above are easy in the abstract and hard in the specific. Thre
 
 **"The kill switch is impossible because we've already retired the old process."** This is a serious risk and a sign of poor change management. If you've burned the boats, you have a single point of failure with no recovery. The answer is to invest in maintaining a viable manual process — even if it's slower and more expensive — until the AI system has earned a year of clean operating history.
 
-## Hot Take
-
 **Hot take:** "AI ethics committee" without "AI ethics checklist" is theater. Most ethics committees meet quarterly, debate principles in the abstract, and produce position papers nobody reads. They have no power to halt deployments. They get briefed on AI initiatives after the fact. They are designed to manage reputational risk, not actual ethical risk.
 
 The organizations that handle AI ethics seriously embed the five practices above into their deployment process — bias testing happens before the QA gate, kill switches are reviewed at launch, audit logs are part of the build pipeline. They have an ethics review process, not an ethics committee. The committee's role is to handle the edge cases the process doesn't cover.

@@ -133,8 +133,6 @@ Most mid-sized companies should be in the Hybrid model. Most are not — they're
 2. **Multiple business units are independently buying the same AI vendor product.** You have no platform layer. Build a CoE.
 3. **AI work is invisible to executives — they don't know what's running where.** You have an organizational visibility problem, often a sign of fragmented embedded model without coordination.
 
-## Hot Take
-
 **Hot take:** "Chief AI Officer" reporting to the CEO is usually the wrong call for non-tech companies. The role becomes either (a) a strategist disconnected from delivery, producing slide decks and external speaking engagements, or (b) a senior IC engineer awkwardly elevated into an executive role they don't have the political skills for. Both fail.
 
 The pattern that works is a senior AI/ML lead reporting into the CTO or CDO, with a clear remit, real authority, and an explicit charter that includes platform building. That role becomes the platform spine for embedded engineering across the business. They don't need a C-suite title. They need budget authority and the ability to set standards.
@@ -157,4 +155,4 @@ Document the proposed structure. Share it with the CTO/CDO and the heads of the 
 
 - [Spotify Engineering Culture](https://engineering.atspotify.com/2014/03/27/spotify-engineering-culture-part-1/) — The "Spotify model" for embedded squads with platform-level guilds. Not specific to AI but the structural pattern translates directly.
 - [BCG, "AI at Scale: How Successful Organizations Cross the Implementation Gap"](https://www.bcg.com/publications/2024/ai-at-scale-implementation) — Survey data on which org structures correlate with AI success. The Hybrid pattern wins on every metric they track for mid-to-large companies.
-- [McKinsey, "The Operating Model for the Age of AI"](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-organization-of-the-future-arriving-now) — The research behind centralized vs. embedded vs. hybrid structures, with case studies showing how organizations transitioned from one to the next.
+- [McKinsey, "The Organization of the Future, Arriving Now"](https://www.mckinsey.com/capabilities/people-and-organizational-performance/our-insights/the-organization-of-the-future-arriving-now) — Research behind centralized vs. embedded vs. hybrid org structures, with case studies showing how organizations transition between them as AI capability matures.

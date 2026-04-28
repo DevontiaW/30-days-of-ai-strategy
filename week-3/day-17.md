@@ -84,8 +84,6 @@ Whether you call this change management or organizational design, these five con
 
 These conversations are uncomfortable. That's why most leaders skip them. That's why most rollouts fail.
 
-## Hot Take
-
 **Hot take:** If your AI rollout plan doesn't include an honest conversation about which jobs are at risk, you're lying to your workforce — and they know it. The "AI will augment, not replace" framing is sometimes true and sometimes false, and treating it as universally true makes you untrustworthy when the layoffs eventually come.
 
 The organizations handling this best are explicit: *"This rollout will change [X role] significantly. We expect [X% reduction / restructuring] over [Y timeframe]. Here's what we're doing for affected employees: [reskilling, transitions, severance]."* The honesty is uncomfortable, but it builds the trust that makes change actually possible.
@@ -107,5 +105,5 @@ If you can answer all five layers in detail, you're ready to roll out. If you ca
 ## Go Deeper
 
 - [Kotter, "Leading Change"](https://www.kotterinc.com/8-steps-process-for-leading-change/) — The classic 8-step framework. Still useful for the structural/process layers; insufficient alone for AI's identity layer challenges.
-- [HBR, "How to Manage AI's Disruption to the Workforce"](https://hbr.org/2024/05/how-to-manage-ais-disruption-of-jobs) — Practical guidance on the layoff/restructuring conversations most leaders avoid, with case studies from companies that handled them well.
-- [MIT Sloan Management Review, "Why So Many Companies Are Stuck on Their AI Journey"](https://sloanreview.mit.edu/article/the-cultural-benefits-of-artificial-intelligence-in-the-enterprise/) — Research on why technical AI deployments succeed but organizational adoption stalls. The data backs everything in today's post.
+- [HBR — AI and Machine Learning topic](https://hbr.org/topic/subject/ai-and-machine-learning) — HBR's ongoing coverage of AI workforce disruption, restructuring, and the harder organizational conversations most leaders avoid. Filter by recent dates for the most relevant practitioner pieces.
+- [MIT Sloan Management Review — AI topic hub](https://sloanreview.mit.edu/topic/ai-machine-learning/) — Their ongoing research stream on AI organizational adoption. Several articles in the archive directly address why technical AI deployments succeed but organizational adoption stalls.
