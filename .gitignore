@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+*.swp
+*.bak
+~$*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.notes/
